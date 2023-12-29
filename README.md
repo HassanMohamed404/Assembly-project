@@ -1,4 +1,4 @@
-# Encryption Algorithm explanation
+# Encryption Algorithm Explanation
 
 ![Image Description](project_ex.jpg)
 
